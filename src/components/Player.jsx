@@ -158,7 +158,7 @@ const Player = () => {
 
 
   return (
-    // <div className='w-full h-full bg-black flex justify-between items-center text-white  '>
+    // <div className='w-full h-full bg-black flex justify-between items-center text-white '>
     <div className='w-full h-full bg-black flex justify-center items-center text-white  '>
         
 

@@ -14,7 +14,7 @@ const App = () => {
         <NavBar/>
       </div>
       
-      {/* <div className='flex'> */}
+      {/* <div className='flex'>  */}
       <div className='h-[78%] flex justify-around gap-1'>
         <Sidebar />
         <Display />
